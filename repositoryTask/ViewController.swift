@@ -12,6 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        
+        print("this is git repository")
+        print("This is updated")
         // Do any additional setup after loading the view.
     }
 
